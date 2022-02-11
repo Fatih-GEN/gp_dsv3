@@ -87,7 +87,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
 //initial commt-v2
   /* USER CODE END 2 */
-// batuhan
+
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
